@@ -30,6 +30,15 @@ Welcome to **Text Analyzer**, a web application built using Django that allows u
 
 ## 📸 UI Preview
 
+![image](https://github.com/user-attachments/assets/6f10b45a-d2a4-4989-9fd4-7375e8734293)
+
+![image](https://github.com/user-attachments/assets/19c5b079-f525-4d0a-90f5-a01f4e4a0293)
+
+![image](https://github.com/user-attachments/assets/d95ab4b5-58a6-42d8-84db-cee95caae8a5)
+
+![image](https://github.com/user-attachments/assets/65654111-cca4-4398-92ac-1022d9c08a2c)
+
+
 
 <sup>✨ Modern, responsive interface with animation and gradient background.</sup>
 
